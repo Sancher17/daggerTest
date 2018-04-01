@@ -2,13 +2,6 @@ package com.example.alex.testdaggermy;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
-
-import com.example.alex.testdaggermy.mySimple.AppInject;
-import com.example.alex.testdaggermy.mySimple.Body;
-import com.example.alex.testdaggermy.mySimple.Car;
-import com.example.alex.testdaggermy.mySimple.Engine;
-import com.example.alex.testdaggermy.mySimple.Wheels;
 
 import javax.inject.Inject;
 

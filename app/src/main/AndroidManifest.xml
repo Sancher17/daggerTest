@@ -3,7 +3,7 @@
     package="com.example.alex.testdaggermy">
 
     <application
-        android:name=".mySimple.AppInject"
+        android:name=".AppInject"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
